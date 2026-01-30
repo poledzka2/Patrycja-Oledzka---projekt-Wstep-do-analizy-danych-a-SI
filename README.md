@@ -11,3 +11,6 @@ Analiza 30-letniego szeregu czasowego średniej miesięcznej temperatury w Warsz
 2. Badanie sezonowości temperatury
 3. Budowa modelu prognozującego temperaturę
 4. Ocena dokładności modelu
+
+Dane do pobrania do projektu (10954 wierszy) na Kaggle:
+[https://www.kaggle.com/datasets/mateuszk013/warsaw-daily-weather](https://www.kaggle.com/datasets/mateuszk013/warsaw-daily-weather)
