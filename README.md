@@ -1,4 +1,4 @@
-# Patrycja-Oledzka---projekt-Wstep-do-analizy-danych-a-SI
+# Patrycja-Oledzka---projekt-Wstep-do-analizy-danych-W-SI
 Analiza temperatury w Warszawie 1993-2022 - projekt zaliczeniowy
 
 
